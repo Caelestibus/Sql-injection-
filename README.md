@@ -1,6 +1,6 @@
-# SQL Injection Demo 🐛
+### SQL Injection Demo 🐛
 
-This repo shows how an SQL Injection attack works using OWASP Bricks Login. It's intended for **educational purposes only**.
+This repo shows how an SQL Injection attack works using OWASP Bricks Login. It's intended for **educational purposes only** if you try it, police will carry you and yours.
 
 ---
 
